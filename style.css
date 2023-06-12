@@ -1,0 +1,18 @@
+h1 {
+  background-color: darkgray;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  padding: 5px;
+  margin-bottom: 0;
+  font-size: 1.5rem;
+  color: white;
+}
+form {
+  background-color: lightgray;
+  padding: 10px;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+}
+#root {
+  padding: 10px;
+}
